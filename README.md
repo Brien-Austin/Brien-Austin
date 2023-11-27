@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **brienaustinclayton@gmail.com**
 
-- ⚡ Fun fact **I also do video editing**
+
 
 
 <p align="left">
