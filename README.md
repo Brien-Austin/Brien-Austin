@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brien-austin&label=Profile%20views&color=0e75b6&style=flat" alt="brien-austin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brien-austin" alt="brien-austin" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://brien-portfolio.vercel.app/](https://brien-portfolio.vercel.app/)
 
